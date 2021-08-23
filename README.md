@@ -5,7 +5,7 @@
   <br/>
   DrewLmin
 </h1>
-<h2 align="center">Lightweight Hosting Panel for Virtualmin</h2>
+<h2 align="center">Lightweight Hosting Panel</h2>
 <p>DrewLMin is a lightweight hosting panel for Virtualmin powered by WordPress, WooCommerce and Virtualmin API.</p>
 <h3>Installation Instructions</h3>
 
