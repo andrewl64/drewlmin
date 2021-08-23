@@ -5,10 +5,8 @@
   <br/>
   DrewLmin
 </h1>
-<h3>Lightweight Hosting Panel for Virtualmin</h3>
-
-Installation Instructions
-----
+<h2 align="center">Lightweight Hosting Panel for Virtualmin</h2>
+<h3>Installation Instructions</h3>
 
 <sub>[Make sure the WooCommerce plugin is installed and activated before installing DrewLmin]</sub>
 
